@@ -192,7 +192,7 @@ frontend:
 
   service:
     type: LoadBalancer
-    targetPort: 9000
+    targetPort: 900
     port: 80
     name: "http"
 
