@@ -41,7 +41,7 @@ detail:
     periodSeconds: 5
     timeoutSeconds: 1
     failureThreshold: 3
-    successThreshold: 3
+    successThreshold: 1
   readinessProbe:
     enabled: true
     initialDelaySeconds: 5
