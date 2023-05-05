@@ -184,7 +184,7 @@ frontend:
 
   image:
     repository: public.ecr.aws/u2g6w7p2/eks-workshop-demo/frontend_node
-    tag: "2.0"
+    tag: "3.0"
     pullPolicy: Always
 
   nameOverride: ""
